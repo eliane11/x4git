@@ -1,5 +1,5 @@
 # x4git
-Certainly! Below is an example of a README file for a GitHub course. This README will provide an overview of the course, its objectives, requirements, and instructions for participants.
+Bienvenue dans le Cours de Maîtrise de GitHub ! Ce cours est conçu pour vous faire passer de novice à utilisateur expérimenté de GitHub, vous dotant des compétences nécessaires pour gérer et collaborer efficacement sur des projets.
 
 ```markdown
 # GitHub Mastery Course
