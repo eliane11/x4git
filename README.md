@@ -106,5 +106,3 @@ Happy learning!
 
 This README file provides a comprehensive overview of the GitHub course, ensuring participants have all the necessary information to get started and succeed in their learning journey.
 
-REGARDS,
-ELIANE.
